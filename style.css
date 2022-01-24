@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vw;
+    background-color: tomato;
+    color: khaki;
+    text-shadow: 0.5vw 0.5vw 0.5vw red;
+}
